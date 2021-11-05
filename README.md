@@ -1,19 +1,14 @@
 # currency
 
-## Project setup
-```
-npm install
+## Setup
+
+To run this project, install it localy using npm:
+
+```shell
+$ git clone https://github.com/SergeyBersenev98/Currency.git
+$ cd ./Currency
+$ npm install
+$ npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Then open your browser on http://localhost:8080/
