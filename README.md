@@ -1,4 +1,6 @@
 # currency
+for quick viewing in PNG:
+https://www.dropbox.com/sh/n9nqjyfe47xz4k5/AAC1uLAvrQiiAfkGXD_7NWSra?dl=0
 
 ## Setup
 
